@@ -14,7 +14,7 @@ This system simulates how an OS manages processes and resources, and visually de
 
 ## 🎬 Demo
 
-![Deadlock Detected](https://github.com/user-attachments/assets/5942e6cb-a7d6-4f6f-90c1-699d7f9d6c1a)
+![Deadlock Detected](Screenshot%202026-06-29%20222324.png)
 
 > Red pulsing nodes and edges indicate a detected deadlock cycle.
 
